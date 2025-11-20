@@ -1,0 +1,4 @@
+filename,label
+example1.jpg,positive
+example2.jpg,offensive
+example3.jpg,negative
